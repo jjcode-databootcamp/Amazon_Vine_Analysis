@@ -14,27 +14,27 @@ Due to the amount of data in the original dataset we are going to use PySpark to
 - Google Colab
 - pgAdmin
 
-![AWS](resources/aws_connection.png)
-![table_1](resources/review_id_table.png)
-![table_2](resources/customers_table.png)
-![table_3](resources/products_table.png)
-![table_1](resources/vine_table.png)
+![AWS](Resources/aws_connection.png)
+![table_1](Resources/review_id_table.png)
+![table_2](Resources/customers_table.png)
+![table_3](Resources/products_table.png)
+![table_1](Resources/vine_table.png)
 
 
 
 
 ## Results 
 1. How many VineTOT reviews and non-Vine reviews were there?
-- ![total vine count](resources/total_vine_count.png)
+- ![total vine count](Resources/total_vine_count.png)
 
 
 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-- ![5 stars count](resources/5stars_count.png)
+- ![5 stars count](Resources/5stars_count.png)
 
 
 
 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-- ![5 stars pct](resources/5stars_pct.png)
+- ![5 stars pct](Resources/5stars_pct.png)
 
 
 ## Summary 
